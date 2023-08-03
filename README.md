@@ -9,7 +9,9 @@ This status hud is made for [ox_core](https://github.com/overextended/ox_core). 
 - stress
 - stamina
 
+![status](https://github.com/itzhapp/svelte_status_hud/assets/88381788/a69de22a-934c-4d97-b84d-d01f6f6506f9)\
 The resource is not built to handle restart in-game.
+
 # Documentation
 
 ### UI
