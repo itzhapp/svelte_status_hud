@@ -24,4 +24,4 @@ Firstly add the new data you want to add to client.lua, look at the other status
 ## Acknowledgements
 
  - [Progression Ring Svelte by 9t5c](https://github.com/9t5c/svelte-circle)
-
+ - [project-error svelte-lua-boilerplate](https://github.com/project-error/svelte-lua-boilerplate)
